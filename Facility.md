@@ -1,3 +1,6 @@
+**Facility**
+=================
+
 1. Kill mordraths, grodak and hynx. All of them.
 
 2. Solve the mastermind puzzle up two from the entrance. [Area 12625]
