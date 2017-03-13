@@ -13,6 +13,7 @@ Note: You may need to kill the 3 golems that are released. They will be
 on the top floor but if you do not kill them they can move and follow
 you. I had one attack when I tried to disarm the magic numbers thinking
 to avoide them.
+
 4. Go to the entrance and solve the magic numbers puzzle there. This
 will power down security.
 
