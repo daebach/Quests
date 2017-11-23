@@ -1,0 +1,225 @@
+To Bless the Forge of Klangratch:
+=================================
+===============================================
+    [ ]     [ ]
+          /
+        [?]
+         |
+[ ]     [ ]     [ ]        Level: 0
+        |     /           Workers: 2
+    [ ]-[ ]-[ ]  exit
+         |       |
+        [ ]     [ ]
+              /
+            [ ]
+===============================================
+                   Level: -1                [2]
+                   Workers: 7              /
+                                        [ ]
+                                       /
+        { }-{ } { }-{ }             [ ]     [a]
+         |   |   |   |               |
+[A]-[*] { } { } { } { }-[ ]-[ ]     [V]
+     |                         /
+    { }-{ }-{ } { }-{ }         [ ]
+     |   |   |   |   |
+    [ ] [ ] [ ] [ ] [ ]
+         |
+        [1]
+===============================================
+       Level: -2                            [3]
+       Workers: 10                           |
+                                            [ ]
+                                           /
+[4]                         [b]         [ ]
+ |                           |         /
+[ ]     [ ]-[ ]-[c]         [ ]     [ ]-[d]-[ ]
+      /     |   |         /      /
+    [i]     [ ] [ ]-[V]-[ ]     [ ]
+          / |
+    [f]-[ ] [e]                     [^]
+       /
+    [ ]
+   /
+[g]
+ |
+[5]
+===============================================
+[B]     [ ]-[ ]-[ ]     [C]
+      /              /
+    [ ]             [ ]        Level: -3
+     |               |         Workers: 0
+     |      [@]      |
+     |       |       |
+    [ ]     [G]     [h]
+   /        |     /
+[D]     [ ]-[E]-[ ]     [F]
+             |
+            [ ]
+             |
+            [^]
+===============================================
+KEY:
+----------room#-----notes----------------------
+[ ]                 Normal room.
+{ }                 Unmapped labyrinth room. If you go off the
+                    path shown in the labyrinth you will be lost,
+                    and have to head continually west until you
+                    arrive back at A on the map.
+^                   An up exit
+V                   A down exit
+|/-                An exit
+?         19114     Thorgan, cleric 149955, exit down to A
+@         19204     Forge of Klangratch
+A         19735     sentinel 86649, exit up to ?
+B         19209     copper panel
+C         19081     bronze panel
+D         19202     platinum panel
+E         19200     gold panel
+F         19189     silver panel
+G         19190     cleric 163826
+a         19174     PUSH WALL
+b         19160     PUT BOWL IN FOUNTAIN, cleric 23041
+c         19182     PULL MOSS
+d         19194     PUSH HOLE
+e         19163     GET CENSER FROM STATUE, cleric 168269
+f         19211     GET ASHES FROM URN
+g         19206     PULL MURAL
+h         19178     PULL TORCH
+i         19168     PUSH CRACK
+1         19116     hammer sarcophagi
+2         19173     coin sarcophagi
+3         19199     axe sarcophagi
+4         19045     cup sarcophagi
+5         19198     shield sarcophagi, cleric 102556
+===============================================
+Instructions:
+-------------
+This quest has three main stages, though I recommend doing it out of
+order to help make sure you have all the appropriate pieces when you
+
+need them. The method I use is a floor-by-floor sweep from top to
+bottom, picking up all the pieces I need as I go, then back up top and
+actually initiate the quest. What follows is instructions for using my
+method.
+
+Begin on level 0. Charity influence the two workers on this floor, as
+well as the cleric (dwarf149955) part of the group of clerics standing
+with Thorgan, who will give you a votive candle. The workers may or may
+not give you anything. Go down from Thorgan to level -1.
+
+Immediately below Thorgan (room 19735), in the room labeled [?] on the
+map, charity influence the sentinel there (dwarf86649) to recieve the
+hammer.
+
+Hammer: room 19116 PUT HAMMER IN SARCOPHAGUS, GET KEY FROM SARCOPHAGUS.
+
+Follow the path through the Labyrinth to the rest of level -1. The
+Type MORE to continue reading. (41% shown)
+8300h, 9800m, 7300e, 10p Bexkb<>- [ 99272322 ] 
+You continue reading:
+Harkal grues in the labyrinth will occasionally cause recklessness as
+you run past them, so make sure to diagnose. Charity all the workers on
+that level (there should be seven) and proceed to level -2.
+
+
+To get to the other end of labyrinth: PATH WALK 19137. Influence the
+workers here with charity to get quest items.
+
+On the level below (level -2), you need to charity all ten workers found
+on this level, a specific sentinel (dwarf51299) who wanders but can
+usually be found near the room labeled [c] on the map, and three
+specific clerics, the ones found at room 19160 (dwarf23041), room 19163
+(dwarf168269), and room 19198 (dwarf102556).
+
+The sentinel 51299 will give you a coin = place it in the sarcophagus in
+room 19173 and get the key from the sarcophagus.
+The stone shield is gained from influencing workers = put it in the
+sarcophagus in 19198 and get the key from the sarcophagus.
+
+On this bottom floor, (level -3) there are two specific dwarf sentinels
+to charity battle (dwarf104811 and dwarf36248) which will give you an
+axe and a cup respectively, and one cleric (dwarf163826) which you may
+or may not have immediate access to in room 19190. Take the axe to room
+19199 and the cup to room 19045 and use them to get the keys from the
+sarcophagi there. If you cannot get there because the way is closed,
+fear not. You'll have an opportunity before you need to use the votive
+candle that cleric would give you. Influence the dwarf cleric
+"dwarf113926" who may or may not give you an item.
+
+Finally, on the way back up to Thorgan, you'll want to stop at the
+various hiding spots on each level, in case the workers did not have all
+the pieces you needed.
+
+On level -3, room 19178 (labeled [h] on the map) PULL TORCH.
+On level -2, go to room 19194 (labeled [d]) and PUSH HOLE, then to room
+19182 (labeled [c]) and PULL MOSS, then to room 19206 (labeled [g]) and
+PULL MURAL, then finally to room 19168 (labeled [i]) and PUSH CRACK.
+
+There are still three hiding spots on this floor, but you'll want to do
+them very last, so proceed up to level -1. On this level, go to room
+19174 (labeled [a]) and PUSH WALL. If they hold pieces, the torch and
+the moss will deposit them on the ground while the rest will place them
+directly into your inventory.
+
+At this point you should have gotten a bowl, which needs to be taken
+back down to level -2 to room 19160 (labeled [b]) where you PUT BOWL IN
+FOUNTAIN.
+
+Go to room 19163 (labeled [e]) and GET CENSER FROM STATUE. Take the
+censer to room 19211 (labeled [f]) and GET ASHES FROM URN to fill the
+censer with ashes.
+
+At this point you should have all the pieces necessary to complete the
+quest. This list is: a bronze key, a copper key, a gold key, a platinum
+key, a silver key, a runic rod, a fire diamond, a bowl, a censer, a set
+of bellows, some rich soil, and five votive candles (four if you could
+not access the last cleric on level -3). Assuming you have all of this,
+proceed back up and through the Labyrinth to get to Thorgan. Give him
+the censer, soil, bowl, and bellows. He will follow you and ask you to
+lead him to the True Forge of Klangratch. The room he's looking for is
+room 19200 (labeled [E]). Upon arriving there one of two things will
+happen. If the way to the Forge is open (and you were able to get all
+Otherwise he will tell you that you need to convince the other dwarves
+to give you symbols which will allow you to access the sarcophagi...
+Fortunately, we've done this already. The keys must be used to unlock
+and open five panels around level -3. The room Thorgan is in has the
+gold panel (which must be unlocked LAST) but the rest can be done in any
+order. The room numbers are: 19209, 19081, 19202, and 19189 (labeled,
+[B], [C], [D], and [F] respectively). After unlocking and opening those
+panels, go back to Thorgan and unlock the panel there. This will open
+the way to the Forge. Obviously, you can skip this step if the way is
+already open, but Thorgan expects you to lock up when everything is done
+before you can finish the quest, so you'll still need those keys. Pick
+up the last votive candle on your way north if you haven't already, and
+stand before the Forge for the final stage of the quest.
+
+Thorgan will ask you to help him complete the ritual to bless the Forge,
+so say "Yes" and follow the instructions he gives you. The commands to
+use are: LIGHT CENSER, USE BELLOWS, USE SOIL, USE BOWL, and finally USE
+CENSER. The Forge will flare and then fall quiet. At this point, even
+though he doesn't prompt you for them, Thorgan is waiting for the final
+pieces. Give him all five candles, then the runic rod, then the diamond.
+You will have to LIGHT all five candles once he places them on the
+ground (use their specific numbers), then he'll ask you to USE DIAMOND
+to attach it to the rod, and finally USE ROD to open the portal to
+summon the Flame Warriors. However, get ready for a fight before you USE
+ROD. There will be 12 suits of armour that will come through the portal
+two at a time relatively quickly. They hit moderately hard, and break
+legs, and cause heavy bleeding. Azbir, the Armour King will also come
+through, but he's not aggressive, so save him for last by specifically
+targeting the two armours that come through after him. If you find
+yourself running low on health, simply run, they do not chase. Once
+they're all dead, put the Azbir's body in the Forge first, followed by
+all the suits of armour. This will summon the Flame Warriors and Thorgan
+will ask you to BREAK the ROD and lock up the Forge then meet him back
+up top. Simply lock all the panels again, once again saving the Gold
+Panel for last. Once this is done, all you have to do is go stand before
+Thorgan and profit! Well done!
+
+The id numbers of the candles:
+"candle97771"             a votive candle
+"candle127375"            a votive candle
+"candle81074"             a votive candle
+"candle122326"            a votive candle
+"candle77271"
